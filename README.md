@@ -1,16 +1,39 @@
-## Hi there 👋
+## 🎥 My YouTube Channel
+<h2 align="center">🎵 My Spotify Playlist</h2>
 
-<!--
-**p-b30/p-b30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Explore my meticulously curated Spotify playlist, composed entirely of exceptional copyright-free music. It's perfectly suited for enhancing focus during coding sessions, fueling creativity, or simply unwinding. Each track has been selected to ensure an uninterrupted, high-quality audio experience.
+<h5 align="center">Enjoy the tunes!</h5>
+<p align="center">
+<a href="https://open.spotify.com/playlist/3ilkWwO6fhn43pkqKXn1Px?si=f04db909fd8342eb" target="_blank">
+  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siSpotify&subtitle=My+Playlist&size=wide" alt="My Playlist">
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+
+
+<h3 align="center">Top Artists of Playlist</h3>
+
+<div align="center">
+  <div style="text-align:center"><img src="https://card.elwan.ch/?username=31hah4yq6es2tjearprp6ir2bmhi" /></div>
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hah4yq6es2tjearprp6ir2bmhi&count=5">
+      </td>
+      <td>
+        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31hah4yq6es2tjearprp6ir2bmhi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
+      </td>
+    </tr>
+  </table>
+
+  <details>
+    <summary>View Data Card for Spotify</summary>
+    <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31hah4yq6es2tjearprp6ir2bmhi">
+      <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31hah4yq6es2tjearprp6ir2bmhi" alt="Data Card for Spotify">
+    </a>
+  </details>
+</div>
+
