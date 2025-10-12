@@ -1,5 +1,5 @@
 
-    <!-- roadmap.sh Profile Header -->
+    roadmap.sh Profile Header
     <th align="center">
       roadmap.sh Profile
     </th>
