@@ -1,4 +1,17 @@
 
+    <!-- roadmap.sh Profile Header -->
+    <th align="center">
+      roadmap.sh Profile
+    </th>
+  </tr>
+  <tr>
+    <!-- roadmap.sh Profile -->
+    <td align="center">
+      <a href="https://roadmap.sh"><img src="https://roadmap.sh/u/pb6/66832f0ad270cc49a6b89a26?variant=dark" alt="roadmap.sh"/></a>   
+    </td>  
+  </tr>
+</table>
+
 <h2 align="center">🎵 uhi My Spotify Playlist</h2>
 
 Explore my meticulously curated Spotify playlist, composed entirely of exceptional copyright-free music. It's perfectly suited for enhancing focus during coding sessions, fueling creativity, or simply unwinding. Each track has been selected to ensure an uninterrupted, high-quality audio experience.
