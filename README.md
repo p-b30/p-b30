@@ -26,20 +26,6 @@
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31izsleauxaz5k5n7lhhfc2tzf2i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Stats">
 </div>
 
-
-
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
-
-
-
-
-
-
-
-
 <details>
   <summary align="center">View Data Card for Spotify</summary>
   <p align="center">
@@ -48,3 +34,10 @@
     </a>
   </p>
 </details>
+
+
+
+# contribution
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
