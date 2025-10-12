@@ -1,16 +1,15 @@
 
-    roadmap.sh Profile Header
-    <th align="center">
-      roadmap.sh Profile
-    </th>
-  </tr>
-  <tr>
-    <!-- roadmap.sh Profile -->
-    <td align="center">
-        <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/68eb960c17747caa5ade8574?variant=dark&roadmaps=data-analyst%2Ccyber-security%2Cgame-developer%2Cai-data-scientist" alt="roadmap.sh"/></a>
-    </td>  
-  </tr>
-</table>
+  <div align="center">
+
+  <!-- Headline -->
+  <h2>🚀 roadmap.sh Profile</h2>
+
+  <!-- Roadmap.sh Profile Card -->
+  <a href="https://roadmap.sh">
+    <img src="https://roadmap.sh/card/tall/68eb960c17747caa5ade8574?variant=dark&roadmaps=data-analyst%2Ccyber-security%2Cgame-developer%2Cai-data-scientist" alt="roadmap.sh"/>
+  </a>
+
+</div>
 
 <h2 align="center">🎵 uhi My Spotify Playlist</h2>
 
