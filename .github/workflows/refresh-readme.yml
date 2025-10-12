@@ -1,0 +1,28 @@
+name: Refresh README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # runs daily at 00:00 UTC
+  workflow_dispatch:     # allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README
+        run: |
+          # Replace the v= timestamp in your roadmap.sh image URL
+          TIMESTAMP=$(date +%s)
+          sed -i "s/\(roadmap.sh\/card\/tall\/[a-z0-9?&=]*\)v=[0-9]*/\1v=${TIMESTAMP}/" README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Refresh roadmap.sh card" || echo "No changes to commit"
+          git push
