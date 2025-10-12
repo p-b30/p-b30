@@ -7,7 +7,7 @@
   <tr>
     <!-- roadmap.sh Profile -->
     <td align="center">
-      <a href="https://roadmap.sh"><img src="https://roadmap.sh/u/pb6/66832f0ad270cc49a6b89a26?variant=dark" alt="roadmap.sh"/></a>   
+        <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/68eb960c17747caa5ade8574?variant=dark&roadmaps=data-analyst%2Ccyber-security%2Cgame-developer%2Cai-data-scientist" alt="roadmap.sh"/></a>
     </td>  
   </tr>
 </table>
