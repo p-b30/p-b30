@@ -11,7 +11,7 @@
 </div>
 
 
-<h2 align="center">🎵 uhiiiiii My Spotify Playlist</h2>
+<h2 align="center">🎵 uhiiiiiiiii My Spotify Playlist</h2>
 
 Explore my meticulously curated Spotify playlist, composed entirely of exceptional copyright-free music. It's perfectly suited for enhancing focus during coding sessions, fueling creativity, or simply unwinding. Each track has been selected to ensure an uninterrupted, high-quality audio experience.
 <h5 align="center">Enjoy the tunes!</h5>
